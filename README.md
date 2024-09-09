@@ -1,5 +1,5 @@
 # My solutions of Damn Vulnerable Defi v4  | 14 / 18 Challenges are solved
-##I successfuly solved 14/18 challenges, why did I stop there? I did not really feel motivated to do the rest, wanted to move on to actual audit contests. Some of the challenges were really hard, I looked at hints from previous v3 versions, if it was very hard, I took inspiration from others.
+## I successfuly solved 14/18 challenges, why did I stop there? I did not really feel motivated to do the rest, wanted to move on to actual audit contests. Some of the challenges were really hard, I looked at hints from previous v3 versions, if it was very hard, I took inspiration from others.
 
 
 # Damn Vulnerable DeFi
